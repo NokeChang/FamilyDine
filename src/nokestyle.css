@@ -1,0 +1,15 @@
+/* vuejs dialog css */
+.dg-btn--ok{
+  border: none;
+  background-color: rgb(61, 41, 248);
+  color:#ddd;
+}
+.dg-btn--cancel{
+  background-color: gray;
+  color:#ddd;
+}
+.dg-main-content{
+  background-color: rgb(85, 49, 1);
+  color:#ddd;
+  width: 85%;
+}
